@@ -8,6 +8,11 @@
   top: 180px;
   left: 500px;
 }
+.mouse-click{
+  position: absolute;
+  top: 560px;
+  left: 540px;
+}
 .card-head{
   font-family: "Roboto";
   color: white;
@@ -15,7 +20,7 @@
 }
 .card-head-text1 {
   position: absolute;
-  top: 30%;
+  top: 31%;
   left: 43%;
   font-size: 30px;
   /*transform: translate(-50%, -50%);*/
