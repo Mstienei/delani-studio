@@ -56,9 +56,9 @@ body{
 .card-title2 {
   position: absolute;
   top: 890px;
-  left: 48%;
+  left: 46%;
   text-align: center;
-  font-size: 15px;
+  font-size: 20px;
   color: white;
 }
 .card-text2 {
@@ -69,4 +69,18 @@ body{
   font-size: 10px;
   color: white;
   padding-top: 10px;
+}
+.card-title3{
+  padding-top: 20px;
+  text-align: center;
+  font-size: 20px;
+}
+.design{
+  padding-left: 15%;
+}
+.dev{
+  padding-left: 25%;
+}
+.product{
+  padding-left: 25%;
 }
