@@ -103,3 +103,29 @@ figcaption{
   position: relative;
   top: 0;
   left: 0;
+}
+.footer-title{
+  position: absolute;
+  top: 83%;
+  left: 46%;
+  text-align: center;
+  font-size: 20px;
+}
+.card-footer1{
+  color: white;
+}
+.card-footer2 {
+    position: absolute;
+    top: 85%;
+    font-size: 30px;
+    width: 100%;
+    padding-left: 180px;
+    color: white;
+    border-color:white;
+    /*transform: translate(-50%, -50%);*/
+  }
+  .btn-primary {
+    background-color: #d6b865;
+    border-color: white;
+    border-radius: 0;
+}
