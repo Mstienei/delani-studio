@@ -84,3 +84,16 @@ body{
 .product{
   padding-left: 25%;
 }
+figcaption{
+  text-align: center;
+}
+.card-body4 img{
+  width: 180px;
+  height: 150px;
+  display: block;
+}
+.card-body4{
+  align-content: center;
+  margin-left: auto;
+  margin-right: auto;
+}
