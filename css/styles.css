@@ -1,3 +1,6 @@
+body{
+  font-family: "Roboto";
+}
 .card-img-top{
   position: relative;
   top: 0;
@@ -14,7 +17,6 @@
   left: 540px;
 }
 .card-head{
-  font-family: "Roboto";
   color: white;
   text-transform: uppercase;
 }
@@ -43,4 +45,5 @@
   text-align: center;
   font-size: 10px;
   padding-top: 15px;
+  font-weight: bold;
 }
