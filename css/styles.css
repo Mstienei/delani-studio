@@ -39,3 +39,8 @@
   transform: translate(-50%, -50%);
     font-size: 10px;
 }
+.card-body1{
+  text-align: center;
+  font-size: 10px;
+  padding-top: 15px;
+}
