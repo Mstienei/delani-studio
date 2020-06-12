@@ -10,18 +10,27 @@
 }
 .card-head{
   font-family: "Roboto";
-  font-size: 30px;
   color: white;
+  text-transform: uppercase;
 }
 .card-head-text1 {
   position: absolute;
-  top: 42%;
+  top: 30%;
   left: 43%;
+  font-size: 30px;
   /*transform: translate(-50%, -50%);*/
 }
 .card-head-text2 {
   position: absolute;
-  top: 50%;
+  top: 38%;
   left: 50%;
   transform: translate(-50%, -50%);
+  font-size: 30px;
+}
+.card-head-text3 {
+  position: absolute;
+  top: 42%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+    font-size: 10px;
 }
