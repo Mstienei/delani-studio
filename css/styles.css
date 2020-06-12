@@ -1,0 +1,10 @@
+.card-img-top{
+  position: relative;
+  top: 0;
+  left: 0;
+}
+.logo{
+  position: absolute;
+  top: 180px;
+  left: 500px;
+}
