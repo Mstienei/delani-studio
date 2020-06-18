@@ -1,5 +1,9 @@
 body{
   font-family: "Roboto";
+  background-color: white;
+}
+.card{
+  border: 0;
 }
 .card-img-top{
   position: relative;
@@ -84,8 +88,14 @@ body{
 .product{
   padding-left: 25%;
 }
-figcaption{
-  text-align: center;
+.design figcaption{
+  padding-left: 8px;
+}
+.dev figcaption{
+  margin-left: -15px;
+}
+.product figcaption{
+  margin-left: -40px;
 }
 .card-body4 img{
   width: 180px;
@@ -122,7 +132,7 @@ figcaption{
     padding-left: 180px;
     color: white;
     border-color:white;
-    /*transform: translate(-50%, -50%);*/
+    font-size: 15px;
   }
   .btn-primary {
     background-color: #d6b865;
