@@ -149,10 +149,16 @@ body{
   margin-left: 160px;
   padding-top: 15px;
 }
-.design img{
+.design-img{
   position: relative;
 }
-.design-caption{
+.dev-img{
+  position: relative;
+}
+.product-img{
+  position: relative;
+}
+.w-25{
   position: absolute;
   top: 1135px;
   color: green;
