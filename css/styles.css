@@ -161,8 +161,9 @@ body{
 .w-25{
   position: absolute;
   top: 1135px;
-  color: green;
+  color: black;
   margin-left: -80px;
-  font-size: 12px;
+  font-size: 10px;
+  text-align: center;
   display: none;
 }
