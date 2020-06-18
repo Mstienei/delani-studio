@@ -149,3 +149,14 @@ body{
   margin-left: 160px;
   padding-top: 15px;
 }
+.design img{
+  position: relative;
+}
+.design-caption{
+  position: absolute;
+  top: 1135px;
+  color: green;
+  margin-left: -80px;
+  font-size: 12px;
+  display: none;
+}
