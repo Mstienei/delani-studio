@@ -35,3 +35,7 @@ $(document).ready(function(){
 function clearForm() {
   document.getElementById("mc-embedded-subscribe-form").reset();
 }
+function submitForm() {
+  var name=document.getElementById("mce-NAME").value;
+  alert(name + ",we have received your message. Thank you for reaching out to us.");
+  }
