@@ -31,11 +31,13 @@ $(document).ready(function(){
   });
 });
 
-//Form Validations
+//Clear Form
 function clearForm() {
   document.getElementById("mc-embedded-subscribe-form").reset();
 }
+//Form Validations
 function submitForm() {
   var name=document.getElementById("mce-NAME").value;
-  alert(name + ",we have received your message. Thank you for reaching out to us.");
+  var email=document.getElementById("mce-EMAIL").value;
+  alert("Hi "+name + "!We have received your message. Thank you for reaching out to us.Our customer care will get in touch with you soon.");
   }
