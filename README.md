@@ -1,5 +1,5 @@
 ## Delani Studio
-!( Delani Studio.jpg)
+![Delani Studio](/assets/Delani.PNG "Delani Studio")
 ## Getting Started
 # Prerequisites
 _Technologies Used_
