@@ -30,3 +30,8 @@ $(document).ready(function(){
     $(".product-img").fadeTo(500, 1);
   });
 });
+
+//Form Validations
+function clearForm() {
+  document.getElementById("mc-embedded-subscribe-form").reset();
+}
